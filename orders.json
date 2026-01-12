@@ -1,0 +1,47 @@
+{
+  "S23946": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Dieter Kasper, Nürtinger Str. 77, 71032 Böblingen, Deutschland",
+    "receiver": "Albert Santner, Mörtelsdorf 1, 5580 Tamsweg, Österreich",
+    "price": "6.300,00 €",
+    "description": "Hersteller: Kuhn<br>Typ: GA 7501 Schwader<br>S.N: B0383<br>Baujahr: 2008<br><br>Die Maschine ist voll funktionsfähig.",
+    "address": "Albert Santner<br>Mörtelsdorf 1<br>5580 Tamsweg<br>Österreich<br>Telefon: +49 173 6574416",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "12.01.2026",
+    "deliveryDate": "16.01.2026",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
